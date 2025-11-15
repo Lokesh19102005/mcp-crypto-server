@@ -1,4 +1,4 @@
-# MCP Crypto Server (Python) — 
+# MCP Crypto Server (Python)
 
 ## Overview
 This project implements a minimal MCP-style server to fetch real-time and historical cryptocurrency data from major exchanges using `ccxt` (async). It provides:
